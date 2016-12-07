@@ -55,7 +55,7 @@ color_max = len(colors)
 # GET ROW AND COLUMN COUNTS
 
 columns, rows = shutil.get_terminal_size((10, 10))
-rows = 8 # temporary limit for testing
+#rows = 8 # temporary limit for testing
 
 # CREATE OUTPUT VAR WITH BACKGROUND COLOR
 
